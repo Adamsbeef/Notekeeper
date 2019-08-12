@@ -1,2 +1,2 @@
 # Notekeeper
-This is a Notekeeper app i developed as a project for in an android development course.
+This is a Notekeeper app that implements components like a recycler view,cursor adapters,SQL databases
