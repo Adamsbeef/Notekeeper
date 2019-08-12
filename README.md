@@ -1,2 +1,2 @@
 # Notekeeper
-This is a Notekeeper project app with Jim Wilson's android development course
+This is a Notekeeper app i developed as a project for in an android development course.
